@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Suldaan Yoonis Nuuriye – Somali Community in Canada</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #e6f0fa;
+      margin: 0;
+      padding: 0;
+      color: #003366;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    img.profile {
+      display: block;
+      max-width: 200px;
+      border-radius: 10px;
+      margin: 20px auto;
+    }
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h2 {
+      color: #005a9c;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 30px;
+    }
+    a {
+      color: #005a9c;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Suldaan Yoonis Nuuriye</h1>
+  <p>Somali Community Support in Canada 🇨🇦</p>
+</header>
+
+<img src="9945E3D6-12E8-4026-909A-C68EB412978B.jpeg" alt="Suldaan Yoonis Nuuriye" class="profile"/>
+
+<section>
+  <h2>About Me</h2>
+  <p>Magaceygu waa Suldaan Yoonis Nuuriye. Waxaan ku dhashay Kismaayo, Soomaaliya 1996. Waxaan leeyahay khibrad dhismo iyo shaqo adag oo aan kasoo shaqeeyay Ethiopia ilaa Canada. Ujeedadaydu waa inaan noqdo ganacsade hal-abuur leh, si aan u abuuro teknoolojiyad gaar ah oo bulshada ka faa’iideysa.</p>
+</section>
+
+<section>
+  <h2>Ujeedada Boggan</h2>
+  <p>Waxaan boggan u sameeyay in aan ka taageero Soomaalida cusub ee imaanaysa Canada, iyo sidoo kale kuwa horay u joogay. Waxaa halkan laga heli doonaa talooyin ku saabsan helitaanka guri, shaqo, PR, iyo isku xirka xarumaha bulshada Soomaaliyeed ee gobollada kala duwan ee Canada.</p>
+</section>
+
+<section>
+  <h2>Macluumaad Waxtar leh</h2>
+  <ul>
+    <li>Sidee loo codsadaa Permanent Residency (PR) iyo Refugee Support</li>
+    <li>Xarumaha bulshada Soomaalida: Hamilton, Toronto, Edmonton, iwm</li>
+    <li>Shaqooyinka la heli karo marka aad cusub tahay</li>
+    <li>Taloyin ku saabsan la qabsiga nolosha cusub</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact & Social Media</h2>
+  <p><strong>Email:</strong> <a href="mailto:yooniscabdi145@gmail.com">yooniscabdi145@gmail.com</a></p>
+  <p><strong>Phone:</strong> 437-376-9996</p>
+  <p><strong>Facebook:</strong> <a href="https://www.facebook.com">Suldaan Yoonis Nuuriye</a></p>
+  <p><strong>Address:</strong> 810 Cannon St East, Hamilton, ON</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Suldaan Yoonis Nuuriye. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
